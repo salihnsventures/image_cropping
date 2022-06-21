@@ -20,7 +20,7 @@ double imageHeight = 0;
 double deviceWidth = 0;
 double deviceHeight = 0;
 
-double defaultCropSize = 100;
+double defaultCropSize = 200;
 double cropSizeWidth = 100;
 double cropSizeHeight = 100;
 double minCropSizeWidth = 20;
